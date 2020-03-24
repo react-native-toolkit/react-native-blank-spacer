@@ -91,6 +91,10 @@ All the existing [View props](https://reactnative.dev/docs/view#props) are suppo
 
 - If you want a blank space to avoid keyboard (i.e) a keyboard avoiding view, you can use [react-native-keyboad-spacer](https://www.npmjs.com/package/react-native-keyboard-spacer) or pair the blank spacer with keyboard height received from [`useKeyboard`](https://github.com/react-native-community/hooks#usekeyboard) hook of [react native hooks](https://github.com/react-native-community/hooks)
 
+## Licenses
+
+MIT © [DaniAkash][twitter]
+
 <!-- [build]: https://github.com/DaniAkash/react-native-blank-spacer/actions
 [build-badge]: https://github.com/daniakash/react-native-blank-spacer/workflows/build/badge.svg
 [coverage-badge]: https://api.codeclimate.com/v1/badges/0cf535fb8d3da2aa4a91/test_coverage
