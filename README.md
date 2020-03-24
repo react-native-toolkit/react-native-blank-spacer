@@ -4,9 +4,9 @@
 
 Free your components from margins using the blank spacer!
 
-<!-- [![Build Status][build-badge]][build]
+[![Build Status][build-badge]][build]
 [![Maintainability][maintainability-badge]][maintainability-url]
-[![Test Coverage][coverage-badge]][coverage-url] -->
+[![Test Coverage][coverage-badge]][coverage-url]
 
 [![Version][version-badge]][package]
 [![Downloads][downloads-badge]][npmtrends]
@@ -95,13 +95,12 @@ All the existing [View props](https://reactnative.dev/docs/view#props) are suppo
 
 MIT © [DaniAkash][twitter]
 
-<!-- [build]: https://github.com/DaniAkash/react-native-blank-spacer/actions
+[build]: https://github.com/DaniAkash/react-native-blank-spacer/actions
 [build-badge]: https://github.com/daniakash/react-native-blank-spacer/workflows/build/badge.svg
-[coverage-badge]: https://api.codeclimate.com/v1/badges/0cf535fb8d3da2aa4a91/test_coverage
+[coverage-badge]: https://api.codeclimate.com/v1/badges/9faec6134e14954b10e0/test_coverage
 [coverage-url]: https://codeclimate.com/github/DaniAkash/react-native-blank-spacer/test_coverage
 [maintainability-badge]: https://api.codeclimate.com/v1/badges/0cf535fb8d3da2aa4a91/maintainability
-[maintainability-url]: https://codeclimate.com/github/DaniAkash/react-native-blank-spacer/maintainability -->
-
+[maintainability-url]: https://codeclimate.com/github/DaniAkash/react-native-blank-spacer/maintainability
 [bundle-phobia-badge]: https://badgen.net/bundlephobia/minzip/react-native-blank-spacer
 [bundle-phobia]: https://bundlephobia.com/result?p=react-native-blank-spacer
 [downloads-badge]: https://img.shields.io/npm/dm/react-native-blank-spacer.svg?style=flat-square
