@@ -1,6 +1,6 @@
 {
   "name": "react-native-blank-spacer",
-  "version": "0.0.1-alpha-3",
+  "version": "0.0.1",
   "description": "A blank spacer component for react native to help build components & layouts without margins",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
