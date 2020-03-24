@@ -65,7 +65,31 @@ const App = () => (
 export default App;
 ```
 
+### Props
+
+#### `height?: number`
+
+Height of the blank spacer
+
+#### `width?: number`
+
+Width of the blank spacer ﹣ used to apply space when `flexDirection: row`
+
+#### `color?: color string`
+
+Color of the blank spacer
+
+#### ViewProps
+
+All the existing [View props](https://reactnative.dev/docs/view#props) are supported as blank spacer extends the view component
+
 ## Recipes
+
+- Follow the link to the snack for [Simple Usage](https://snack.expo.io/@daniakash/blank-spacer-example)
+
+- If you want to apply spacing based on the device screen size, you can use the blank spacer with [react-native-responsive-dimensions](https://github.com/DaniAkash/react-native-responsive-dimensions)
+
+- If you want a blank space to avoid keyboard (i.e) a keyboard avoiding view, you can use [react-native-keyboad-spacer](https://www.npmjs.com/package/react-native-keyboard-spacer) or pair the blank spacer with keyboard height received from [`useKeyboard`](https://github.com/react-native-community/hooks#usekeyboard) hook of [react native hooks](https://github.com/react-native-community/hooks)
 
 <!-- [build]: https://github.com/DaniAkash/react-native-blank-spacer/actions
 [build-badge]: https://github.com/daniakash/react-native-blank-spacer/workflows/build/badge.svg
